@@ -1,4 +1,4 @@
-Repeat Buyers prediction for E-Commerce
+Repeated Buyers prediction for E-Commerce
 1. Problem statement 
 Merchants often gain many new customers through promotions, but a significant portion 
 of these customers are only interested in one-time deals. Therefore, the impact of 
